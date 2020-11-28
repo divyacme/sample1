@@ -5,16 +5,5 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-
-<!-- Images  -->
-
-<img src="images/tree.jpg" height="300px"  width="100%"/>
-
-<img src="images/tree.jpg" height="300px"  width="300px" alt="Tree"/>
-
-<img src="images/tree.jpg" height="300px"  width="300px" alt="Tree" style="float:right"/>
-
-
-<img src="https://arbordayblog.org/wp-content/uploads/2018/06/oak-tree-sunset-iStock-477164218.jpg" height="300px"  width="300px" />
-</head>
+	</body>
 </html>
